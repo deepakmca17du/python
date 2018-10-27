@@ -3,13 +3,10 @@ import sys
 def main():
 
     '''
-
     Objective: To compute price per unit weight of an item
-
     Input Parameter: None
-
     Return Value: None
-
+    try exception i used for exception
     '''
 
     price = float(input('Enter price of item purchased: '))
